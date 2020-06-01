@@ -4,4 +4,7 @@ edited on my desktop
 
 so, edit here
 
-it'll create a conflict
+append a line on virtual server
+
+resolved a confict
+
