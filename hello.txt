@@ -11,3 +11,5 @@ resolved a confict
 add something to try daily routine
 
 daily update
+
+试验中文
